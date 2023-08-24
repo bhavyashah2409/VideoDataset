@@ -1,1 +1,0 @@
-Your selected frames extracted from the video at regular intervals will be saved in a folder created here with the same name as the video.
